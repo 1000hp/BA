@@ -7,3 +7,4 @@ o, privet
 3 less
 
 dva
+tri
